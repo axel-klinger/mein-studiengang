@@ -11,9 +11,9 @@ Kurse
 ---
 
 + Mathe
-  * [Mathe - Grundlagen](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/uni/bauing/mathe-a/kurs.md)
-  * [Mathe - Fortgeschrittene](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/uni/bauing/mathe-b/kurs.md)
-  * [Mathe - Vertiefung](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/uni/bauing/mathe-c/kurs.md)
+  * [Mathe - Grundlagen](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/uni/bauing/mathe/mathe-a/kurs.md)
+  * [Mathe - Fortgeschrittene](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/uni/bauing/mathe/mathe-b/kurs.md)
+  * [Mathe - Vertiefung](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/uni/bauing/mathe/mathe-c/kurs.md)
 + Mechanik
   * [Mechanik - Mechanik I](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/uni/bauing/mechanik/kurs.md)
 + Statik
@@ -21,9 +21,9 @@ Kurse
 + Baustoffkunde
   * [Baustoffkunde - Einführung](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/uni/bauing/baustoffkunde/kurs.md)
 + Bauphysik
-  * [Bauphysik - Wärme](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/uni/bauing/bauphysik-a/kurs.md)
-  * [Bauphysik - Feuchte](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/uni/bauing/bauphysik-b/kurs.md)
-  * [Bauphysik - Schall](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/uni/bauing/bauphysik-c/kurs.md)
+  * [Bauphysik - Wärme](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/uni/bauing/bauphysik/bauphysik-a/kurs.md)
+  * [Bauphysik - Feuchte](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/uni/bauing/bauphysik/bauphysik-b/kurs.md)
+  * [Bauphysik - Schall](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/uni/bauing/bauphysik/bauphysik-c/kurs.md)
 + Grundbau
   * [Grundbau - Bodenmechanik](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/uni/bauing/grundbau/kurs.md)
   * [Grundbau - Tunnelbau](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/uni/bauing/grundbau/kurs.md)
@@ -41,4 +41,4 @@ Kurse
   * [Verkehr - Straße](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/uni/bauing/verkehr/strasse/kurs.md)
   * [Verkehr - Schiene](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/uni/bauing/verkehr/schiene/kurs.md)
 + Wasserbau
-  * [Verkehr - Schiene](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/uni/bauing/verkehr/schiene/kurs.md)
+  * [Wasserbau - Siedlungswasserwirtschaft](https://github.com/axel-klinger/tala-tutorial/blob/master/beispiele/uni/bauing/wasserbau/kurs.md)
